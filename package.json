@@ -1,0 +1,11 @@
+{
+  "name": "terminal-ticker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.3",
+    "figlet": "^1.5.0",
+    "stock-info": "^1.2.0"
+  }
+}
